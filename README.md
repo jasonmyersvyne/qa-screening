@@ -28,12 +28,10 @@ Please submit the following:
 
 ## How to Submit
 
-1. Fork the repository [qa-screening](https://github.com/jasonmyersvyne/qa-screening).
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your submission.
-4. Add your test code and documentation to the new branch.
-5. Push the branch to your forked repository.
-6. Create a Pull Request (PR) to the original repository.
+1. Create a new repository for your submission on Github, Bitbucket, or similar service.
+2. Add your test code and documentation.
+3. Push the code to your repository.
+4. Send us a link to your repository.
 
 ## Evaluation Criteria
 
